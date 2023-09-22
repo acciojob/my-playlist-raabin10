@@ -23,15 +23,11 @@ a{
 .vid{
 	background-color: rgb(255, 255, 255);
 	border:1px solid black;
-	margin:75px;
 	padding:10px;
 	border-radius:10px;
 }
-.vid1{
+.vid1,.aud{
 	width:95%;
 	margin:10px;
 	padding:10px
-}
-.aud{
-	width:95%;
 }

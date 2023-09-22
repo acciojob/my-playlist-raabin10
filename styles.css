@@ -1,1 +1,47 @@
-/*  your css code here. If applicable */
+
+        body {
+            background-color: rgb(204, 204, 204);
+            font-family: Arial, sans-serif;
+        }
+
+   .myp{
+	   border:1px solid black;
+	   border-radius:20px;
+	   background:white;
+   }
+        /* Headings styles */
+        h1, h2 {
+            text-align: center;
+        }
+
+        /* Playlist styles */
+        ul {
+            list-style-type: none;
+           
+        }
+ .vid{
+	 background:white;
+	 border:1px soild black;
+	 border-radius:5px;
+	 display:flex;
+	 flex-direction:column;
+	 align-item:center;
+ }
+        li {
+            margin: 5px 0;
+        }
+
+        a {
+            text-decoration: none;
+            target: _blank;
+        }
+
+        /* Player styles */
+        .player_one, .player_two {
+            background-color: rgb(255, 255, 255);
+            padding: 10px;
+            border-radius: 10px;
+            margin: 10px auto;
+            display: block;
+        }
+    </style>

@@ -21,7 +21,7 @@ a{
 	    
 }
 .vid{
-	background:white;
+	background-color: rgb(255, 255, 255);
 	border:1px solid black;
 	margin:75px;
 	padding:10px;
